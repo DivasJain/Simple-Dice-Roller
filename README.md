@@ -1,6 +1,7 @@
 # dice_roller
 
 A new Flutter project.
+Simple animation of dice images giving random numbers.
 
 ## Getting Started
 
